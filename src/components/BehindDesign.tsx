@@ -12,7 +12,7 @@ const BehindDesign = () => {
           <h2 className="font-rozha text-3xl md:text-4xl font-bold mb-4">
             Behind The <span className="text-primary">Design</span>
           </h2>
-          <p className=" text-primary max-w-2xl mx-auto">
+          <p className=" ttext-gray-600 max-w-2xl mx-auto">
             Discover how we craft each design with Bengali heritage and artistry.
           </p>
         </div>
@@ -57,7 +57,7 @@ const BehindDesign = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-lg">Understanding Your Story</h4>
-                  <p className="text-bengali-gray">We begin by learning about your celebration, needs, and preferences, ensuring each design is uniquely yours.</p>
+                  <p className="text-gray-600">We begin by learning about your celebration, needs, and preferences, ensuring each design is uniquely yours.</p>
                 </div>
               </div>
               
@@ -67,7 +67,7 @@ const BehindDesign = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-lg">Research & Inspiration</h4>
-                  <p className="text-bengali-gray">We dive into traditional Bengali art forms, from alpona and kantha to terracotta, finding elements that match your vision.</p>
+                  <p className="text-gray-600">We dive into traditional Bengali art forms, from alpona and kantha to terracotta, finding elements that match your vision.</p>
                 </div>
               </div>
               
@@ -77,7 +77,7 @@ const BehindDesign = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-lg">Handcrafted Sketching</h4>
-                  <p className="text-bengali-gray">Our artists create initial sketches by hand, blending traditional motifs with contemporary design elements.</p>
+                  <p className="text-gray-600">Our artists create initial sketches by hand, blending traditional motifs with contemporary design elements.</p>
                 </div>
               </div>
               
@@ -87,7 +87,7 @@ const BehindDesign = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-lg">Digital Refinement</h4>
-                  <p className="text-bengali-gray">We transform handcrafted elements into polished digital designs, keeping the authenticity of Bengali artistry.</p>
+                  <p className="text-gray-600">We transform handcrafted elements into polished digital designs, keeping the authenticity of Bengali artistry.</p>
                 </div>
               </div>
             </div>
@@ -116,11 +116,7 @@ const BehindDesign = () => {
             
             <div className="flex flex-col items-center text-center">
               <div className="w-24 h-24 rounded-full bg-bengali-soft-orange/30 flex items-center justify-center mb-4">
-                <svg width="60" height="60" viewBox="0 0 100 100">
-                  <path d="M30,30 L70,30 L70,70 L30,70 Z" fill="none" stroke="#e43e25" strokeWidth="2" />
-                  <path d="M40,40 L60,40 L60,60 L40,60 Z" fill="none" stroke="#e43e25" strokeWidth="1.5" />
-                  <path d="M25,25 L35,35 M65,35 L75,25 M75,75 L65,65 M35,65 L25,75" stroke="#e43e25" strokeWidth="1.5" />
-                </svg>
+               <img a="../pngwing.com.png"></img>
               </div>
               <h4 className="font-bold">Kantha</h4>
               <p className="text-sm text-bengali-gray">Embroidery patterns</p>
