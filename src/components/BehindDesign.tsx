@@ -1,7 +1,7 @@
 
 const BehindDesign = () => {
   return (
-    <section id="process" className="section-padding bg-white relative overflow-hidden">
+    <section id="process" className="section-padding  relative overflow-hidden">
       {/* Background Elements */}
       <div className="absolute inset-0 kantha-pattern opacity-10 pointer-events-none"></div>
       <div className="absolute right-0 bottom-0 w-64 h-64 bg-bengali-gold/10 rounded-full filter blur-3xl"></div>
