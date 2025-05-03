@@ -43,9 +43,9 @@ const BehindDesign = () => {
             </div>
             
             {/* Decorative Elements */}
-{/*             <div className="absolute -top-5 -right-5 w-16 h-16 border-4 border-dotted border-bengali-gold/40 rounded-full animate-spin-slow"></div>
+            <div className="absolute -top-5 -right-5 w-16 h-16 border-4 border-dotted border-bengali-gold/40 rounded-full animate-spin-slow"></div>
             <div className="absolute -bottom-5 -left-5 w-12 h-12 border-4 border-dashed border-bengali-red/30 rounded-full animate-spin-slow" style={{ animationDirection: "reverse", animationDuration: "15s" }}></div>
-          </div> */}
+          </div>
           
           <div className="space-y-6">
             <h3 className="font-rozha text-2xl font-bold text-primary">Our Creative Process</h3>
@@ -143,11 +143,7 @@ const BehindDesign = () => {
             
             <div className="flex flex-col items-center text-center">
               <div className="w-24 h-24 rounded-full bg-bengali-soft-orange/30 flex items-center justify-center mb-4">
-                <svg width="60" height="60" viewBox="0 0 100 100">
-                  <path d="M40,80 C20,60 20,30 50,20 C80,30 80,60 60,80 C50,90 50,90 40,80 Z" 
-                        fill="none" stroke="#e43e25" strokeWidth="2" />
-                  <circle cx="50" cy="40" r="10" fill="#FFD700" fillOpacity="0.5" />
-                </svg>
+              <img width="80" height="80" viewBox="0 0 100 100" src="/lotus.png"></img>
               </div>
               <h4 className="font-bold">Lotus</h4>
               <p className="text-sm text-bengali-gray">Sacred floral patterns</p>
