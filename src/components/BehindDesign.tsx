@@ -92,9 +92,9 @@ const BehindDesign = () => {
               </div>
             </div>
             
-            <Button className="bg-bengali-red hover:bg-bengali-deep-red text-white mt-4">
+{/*             <Button className="bg-bengali-red hover:bg-bengali-deep-red text-white mt-4">
               Schedule a Design Consultation
-            </Button>
+            </Button> */}
           </div>
         </div>
         
