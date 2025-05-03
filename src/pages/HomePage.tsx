@@ -5,6 +5,8 @@ import PromoBanner from '../components/PromoBanner';
 import Services from '../components/Services';
 import Testimonials from '../components/Testimonials';
 import Contact from '../components/Contact';
+import BehindDesign from '../components/BehindDesign';
+
 
 const HomePage: React.FC = () => {
   return (
@@ -13,6 +15,7 @@ const HomePage: React.FC = () => {
       <Portfolio />
       <PromoBanner />
       <Services />
+       <BehindDesign />
       <Testimonials />
       <Contact />
     </>
