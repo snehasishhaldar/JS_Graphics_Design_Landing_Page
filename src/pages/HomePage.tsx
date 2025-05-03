@@ -3,9 +3,9 @@ import Hero from '../components/Hero';
 import Portfolio from '../components/Portfolio';
 import PromoBanner from '../components/PromoBanner';
 import Services from '../components/Services';
+import BehindDesign from '../components/BehindDesign';
 import Testimonials from '../components/Testimonials';
 import Contact from '../components/Contact';
-import BehindDesign from '../components/BehindDesign';
 
 
 const HomePage: React.FC = () => {
