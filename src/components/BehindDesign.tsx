@@ -1,7 +1,7 @@
 
 const BehindDesign = () => {
   return (
-    <section id="process" className="py-16 md:py-24  relative overflow-hidden">
+    <section id="process" className="py-16 md:py-24    bg-white/80  relative overflow-hidden">
       {/* Background Elements */}
       <div className="absolute inset-0 kantha-pattern opacity-10 pointer-events-none"></div>
       <div className="absolute right-0 bottom-0 w-64 h-64 bg-bengali-gold/10 rounded-full filter blur-3xl"></div>
@@ -52,7 +52,7 @@ const BehindDesign = () => {
             
             <div className="space-y-4">
               <div className="flex gap-4 items-start">
-                <div className="w-10 h-10 rounded-full bg-off-white/10 flex items-center justify-center shrink-0">
+                <div className="w-10 h-10 rounded-full bg-primary/10  flex items-center justify-center shrink-0">
                   <span className="font-bold text-primary">1</span>
                 </div>
                 <div>
@@ -62,7 +62,7 @@ const BehindDesign = () => {
               </div>
               
               <div className="flex gap-4 items-start">
-                <div className="w-10 h-10 rounded-full bbg-off-white/10 flex items-center justify-center shrink-0">
+                <div className="w-10 h-10 rounded-full bg-accent/30 flex items-center justify-center shrink-0">
                   <span className="font-bold text-primary">2</span>
                 </div>
                 <div>
@@ -72,7 +72,7 @@ const BehindDesign = () => {
               </div>
               
               <div className="flex gap-4 items-start">
-                <div className="w-10 h-10 rounded-full bg-bengali-gold/20 flex items-center justify-center shrink-0">
+                <div className="w-10 h-10 rounded-full bg-primary/10  flex items-center justify-center shrink-0">
                   <span className="font-bold text-primary">3</span>
                 </div>
                 <div>
@@ -82,7 +82,7 @@ const BehindDesign = () => {
               </div>
               
               <div className="flex gap-4 items-start">
-                <div className="w-10 h-10 bg-off-white/10 flex items-center justify-center shrink-0">
+                <div className="w-10 h-10 bg-accent/30 flex items-center justify-center shrink-0">
                   <span className="font-bold text-primary">4</span>
                 </div>
                 <div>
