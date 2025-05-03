@@ -7,7 +7,7 @@ const BehindDesign = () => {
       <div className="absolute right-0 bottom-0 w-64 h-64 bg-bengali-gold/10 rounded-full filter blur-3xl"></div>
       <div className="absolute left-0 top-0 w-80 h-80 bg-bengali-soft-red/20 rounded-full filter blur-3xl"></div>
       
-      <div className="container mx-auto padding-10px">
+      <div className="container mx-auto padding-10">
         <div className="text-center mb-16">
           <h2 className="font-rozha text-3xl md:text-4xl font-bold mb-4">
             Behind The <span className="text-gradient">Design</span>
