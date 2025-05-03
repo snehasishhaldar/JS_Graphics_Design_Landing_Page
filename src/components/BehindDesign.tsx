@@ -116,7 +116,7 @@ const BehindDesign = () => {
             
             <div className="flex flex-col items-center text-center">
               <div className="w-24 h-24 rounded-full bg-bengali-soft-orange/30 flex items-center justify-center mb-4">
-               <img width="60" height="60" viewBox="0 0 100 100" src="pngwing.com.png"></img>
+               <img width="60" height="60" viewBox="0 0 100 100" src="/pngwing.com.png"></img>
               </div>
               <h4 className="font-bold">Kantha</h4>
               <p className="text-sm text-bengali-gray">Embroidery patterns</p>
