@@ -92,13 +92,7 @@ const BehindDesign = () => {
               </div>
             </div>
             
-              <button 
-                      type="submit" 
-                      className="bg-primary hover:bg-primary-dark text-white font-baloo py-3 px-8 rounded-full transition-all duration-300 transform hover:scale-105 hover:shadow-lg flex items-center"
-                    >
-                      Schedule a Consultation
-                      <Send size={16} className="ml-2" />
-                    </button>
+             
           </div>
         </div>
         
