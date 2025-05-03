@@ -10,7 +10,7 @@ const BehindDesign = () => {
       <div className="container mx-auto padding-10">
         <div className="text-center mb-16">
           <h2 className="font-rozha text-3xl md:text-4xl font-bold mb-4">
-            Behind The <span className="text-gradient">Design</span>
+            Behind The <span className="text-primary">Design</span>
           </h2>
           <p className="text-bengali-gray max-w-2xl mx-auto">
             Discover how we craft each design with Bengali heritage and artistry.
@@ -48,7 +48,7 @@ const BehindDesign = () => {
           </div>
           
           <div className="space-y-6">
-            <h3 className="font-rozha text-2xl font-bold text-bengali-deep-red">Our Creative Process</h3>
+            <h3 className="font-rozha text-2xl font-bold text-primary">Our Creative Process</h3>
             
             <div className="space-y-4">
               <div className="flex gap-4 items-start">
