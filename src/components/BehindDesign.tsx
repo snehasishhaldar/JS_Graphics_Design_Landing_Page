@@ -30,8 +30,8 @@ const BehindDesign = () => {
             </div>
             
             {/* Decorative Elements */}
-            <div className="absolute -top-5 -right-5 w-16 h-16 border-4  rounded-full animate-spin-slow"></div>
-            <div className="absolute -bottom-5 -left-5 w-12 h-12 border-4 rounded-full animate-spin-slow" style={{ animationDirection: "reverse", animationDuration: "15s" }}></div>
+            <div className="absolute -top-5 -right-5 w-16 h-16 border-4  ></div>
+            <div className="absolute -bottom-5 -left-5 w-12 h-12 border-4 rounded-full  style={{ animationDirection: "reverse", animationDuration: "15s" }}></div>
           </div>
           
           <div className="space-y-6">
@@ -89,7 +89,7 @@ const BehindDesign = () => {
           
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6">
             <div className="flex flex-col items-center text-center">
-              <div className="w-24 h-24 rounded-full bg-bengali-soft-red/30 flex items-center justify-center mb-4">
+              <div className="w-24 h-24 rounded-full  items-center justify-center mb-4">
                 <svg width="60" height="60" viewBox="0 0 100 100">
                   <path d="M20,50 C20,30 40,20 50,20 C60,20 80,30 80,50 C80,70 60,80 50,80 C40,80 20,70 20,50 Z" 
                         fill="none" stroke="#e43e25" strokeWidth="2" />
@@ -98,7 +98,7 @@ const BehindDesign = () => {
                 </svg>
               </div>
               <h4 className="font-bold">Alpona</h4>
-              <p className="text-sm text-bengali-gray">Traditional floor paintings</p>
+              <p className="text-sm text-gray-600">Traditional floor paintings</p>
             </div>
             
             <div className="flex flex-col items-center text-center">
@@ -118,7 +118,7 @@ const BehindDesign = () => {
             </div>
             
             <div className="flex flex-col items-center text-center">
-              <div className="w-24 h-24 rounded-full bg-bengali-soft-red/30 flex items-center justify-center mb-4">
+              <div className="w-24 h-24 rounded-full  flex items-center justify-center mb-4">
                 <svg width="60" height="60" viewBox="0 0 100 100">
                   <path d="M50,20 C60,30 70,20 80,30 C70,40 80,50 70,60 C60,70 50,60 40,70 C30,80 20,70 10,80 C20,70 10,60 20,50 C30,40 20,30 30,20 C40,10 50,20 50,20 Z" 
                         fill="none" stroke="#e43e25" strokeWidth="1.5" />
@@ -129,7 +129,7 @@ const BehindDesign = () => {
             </div>
             
             <div className="flex flex-col items-center text-center">
-              <div className="w-24 h-24 rounded-full bg-bengali-soft-orange/30 flex items-center justify-center mb-4">
+              <div className="w-24 h-24 rounded-full  flex items-center justify-center mb-4">
               <img width="80" height="80" viewBox="0 0 100 100" src="/lotus.png"></img>
               </div>
               <h4 className="font-bold">Lotus</h4>
