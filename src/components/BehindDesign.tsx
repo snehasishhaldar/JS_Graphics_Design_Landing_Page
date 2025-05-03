@@ -12,7 +12,7 @@ const BehindDesign = () => {
           <h2 className="font-rozha text-3xl md:text-4xl font-bold mb-4">
             Behind The <span className="text-primary">Design</span>
           </h2>
-          <p className=" ttext-gray-600 max-w-2xl mx-auto">
+          <p className=" text-gray-600 max-w-2xl mx-auto">
             Discover how we craft each design with Bengali heritage and artistry.
           </p>
         </div>
@@ -20,7 +20,7 @@ const BehindDesign = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mb-16">
           <div className="relative">
             <div className="w-full aspect-square bg-white rounded-xl overflow-hidden shadow-lg alpona-border p-4">
-              <div className="h-full w-full bg-bengali-soft-red/10 rounded-lg flex items-center justify-center">
+              <div className="h-full w-full  rounded-lg flex items-center justify-center">
                 <div className="relative w-4/5 h-4/5">
                   {/* Design Process Illustration */}
                   <svg viewBox="0 0 100 100" className="w-full h-full opacity-80">
@@ -35,17 +35,17 @@ const BehindDesign = () => {
                     <circle cx="50" cy="50" r="5" fill="#FFD700" />
                   </svg>
                   
-                  {/* Animated Elements */}
-                  <div className="absolute top-1/4 left-1/4 w-6 h-6 bg-bengali-red/20 rounded-full animate-pulse-gentle"></div>
+{/*                   {/* Animated Elements */}
+                  <div className="absolute top-1/4 left-1/4 w-6 h-6  rounded-full animate-pulse-gentle"></div>
                   <div className="absolute bottom-1/4 right-1/4 w-6 h-6 bg-bengali-gold/30 rounded-full animate-pulse-gentle" style={{ animationDelay: "1s" }}></div>
-                </div>
+                </div> */}
               </div>
             </div>
             
             {/* Decorative Elements */}
-            <div className="absolute -top-5 -right-5 w-16 h-16 border-4 border-dotted border-bengali-gold/40 rounded-full animate-spin-slow"></div>
+{/*             <div className="absolute -top-5 -right-5 w-16 h-16 border-4 border-dotted border-bengali-gold/40 rounded-full animate-spin-slow"></div>
             <div className="absolute -bottom-5 -left-5 w-12 h-12 border-4 border-dashed border-bengali-red/30 rounded-full animate-spin-slow" style={{ animationDirection: "reverse", animationDuration: "15s" }}></div>
-          </div>
+          </div> */}
           
           <div className="space-y-6">
             <h3 className="font-rozha text-2xl font-bold text-primary">Our Creative Process</h3>
@@ -116,19 +116,15 @@ const BehindDesign = () => {
             
             <div className="flex flex-col items-center text-center">
               <div className="w-24 h-24 rounded-full bg-bengali-soft-orange/30 flex items-center justify-center mb-4">
-               <img width="60" height="60" viewBox="0 0 100 100" src="/pngwing.com.png"></img>
+               <img width="80" height="80" viewBox="0 0 100 100" src="/pngwing.com.png"></img>
               </div>
               <h4 className="font-bold">Kantha</h4>
               <p className="text-sm text-bengali-gray">Embroidery patterns</p>
             </div>
             
             <div className="flex flex-col items-center text-center">
-              <div className="w-24 h-24 rounded-full bg-bengali-gold/20 flex items-center justify-center mb-4">
-                <svg width="60" height="60" viewBox="0 0 100 100">
-                  <circle cx="50" cy="50" r="30" fill="none" stroke="#e43e25" strokeWidth="2" />
-                  <path d="M50,20 L50,80 M20,50 L80,50" stroke="#e43e25" strokeWidth="2" />
-                  <circle cx="50" cy="50" r="10" fill="none" stroke="#FFD700" strokeWidth="1.5" />
-                </svg>
+              <div className="w-24 h-24 rounded-full  flex items-center justify-center mb-4">
+                  <img width="80" height="80" viewBox="0 0 100 100" src="/pngwing.com.png"></img>
               </div>
               <h4 className="font-bold">Shankha</h4>
               <p className="text-sm text-bengali-gray">Conch shell motifs</p>
