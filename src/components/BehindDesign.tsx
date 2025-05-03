@@ -3,9 +3,7 @@ const BehindDesign = () => {
   return (
     <section id="process" className="py-16 md:py-24 bg-white/80  relative overflow-hidden">
       {/* Background Elements */}
-      <div className="absolute inset-0 opacity-10 pointer-events-none"></div>
-      <div className="absolute right-0 bottom-0 w-64 h-64 bg-bengali-gold/10 rounded-full filter blur-3xl"></div>
-      <div className="absolute left-0 top-0 w-80 h-80 bg-bengali-soft-red/20 rounded-full filter blur-3xl"></div>
+      
       
       <div className="container mx-auto padding-10">
         <div className="text-center mb-16">
@@ -23,22 +21,11 @@ const BehindDesign = () => {
               <div className="h-full w-full  rounded-lg flex items-center justify-center">
                 <div className="relative w-4/5 h-4/5">
                   {/* Design Process Illustration */}
-                  <svg viewBox="0 0 100 100" className="w-full h-full opacity-80">
-                    <defs>
-                      <pattern id="alpona" patternUnits="userSpaceOnUse" width="20" height="20">
-                        <path d="M0,10 Q5,5 10,10 Q15,15 20,10" fill="none" stroke="#e43e25" strokeWidth="0.5" />
-                      </pattern>
-                    </defs>
-                    <circle cx="50" cy="50" r="40" fill="url(#alpona)" stroke="#e43e25" strokeWidth="1" />
-                    <path d="M30,40 Q50,20 70,40 Q50,60 30,40 Z" fill="none" stroke="#e43e25" strokeWidth="1" />
-                    <path d="M30,60 Q50,80 70,60 Q50,40 30,60 Z" fill="none" stroke="#e43e25" strokeWidth="1" />
-                    <circle cx="50" cy="50" r="5" fill="#FFD700" />
-                  </svg>
+                 
                   
 {/*                   {/* Animated Elements */}
-                  <div className="absolute top-1/4 left-1/4 w-6 h-6  rounded-full animate-pulse-gentle"></div>
-                  <div className="absolute bottom-1/4 right-1/4 w-6 h-6 bg-bengali-gold/30 rounded-full animate-pulse-gentle" style={{ animationDelay: "1s" }}></div>
-                </div> */}
+             
+                </div> 
               </div>
             </div>
             
