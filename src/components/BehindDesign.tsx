@@ -30,8 +30,8 @@ const BehindDesign = () => {
             </div>
             
             {/* Decorative Elements */}
-            <div className="absolute -top-5 -right-5 w-16 h-16 border-4 border-dotted border-bengali-gold/40 rounded-full animate-spin-slow"></div>
-            <div className="absolute -bottom-5 -left-5 w-12 h-12 border-4 border-dashed border-bengali-red/30 rounded-full animate-spin-slow" style={{ animationDirection: "reverse", animationDuration: "15s" }}></div>
+            <div className="absolute -top-5 -right-5 w-16 h-16 border-4  rounded-full animate-spin-slow"></div>
+            <div className="absolute -bottom-5 -left-5 w-12 h-12 border-4 rounded-full animate-spin-slow" style={{ animationDirection: "reverse", animationDuration: "15s" }}></div>
           </div>
           
           <div className="space-y-6">
