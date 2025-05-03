@@ -3,7 +3,7 @@ const BehindDesign = () => {
   return (
     <section id="process" className="py-16 md:py-24    bg-white/80  relative overflow-hidden">
       {/* Background Elements */}
-      <div className="absolute inset-0 kantha-pattern opacity-10 pointer-events-none"></div>
+      <div className="absolute inset-0 opacity-10 pointer-events-none"></div>
       <div className="absolute right-0 bottom-0 w-64 h-64 bg-bengali-gold/10 rounded-full filter blur-3xl"></div>
       <div className="absolute left-0 top-0 w-80 h-80 bg-bengali-soft-red/20 rounded-full filter blur-3xl"></div>
       
@@ -12,7 +12,7 @@ const BehindDesign = () => {
           <h2 className="font-rozha text-3xl md:text-4xl font-bold mb-4">
             Behind The <span className="text-primary">Design</span>
           </h2>
-          <p className="text-bengali-gray max-w-2xl mx-auto">
+          <p className=" max-w-2xl mx-auto">
             Discover how we craft each design with Bengali heritage and artistry.
           </p>
         </div>
