@@ -82,7 +82,7 @@ const BehindDesign = () => {
               </div>
               
               <div className="flex gap-4 items-start">
-                <div className="w-10 h-10 bg-accent/30 flex items-center justify-center shrink-0">
+                <div className="w-10 h-10  ounded-full bg-accent/30 flex items-center justify-center shrink-0">
                   <span className="font-bold text-primary">4</span>
                 </div>
                 <div>
@@ -92,9 +92,13 @@ const BehindDesign = () => {
               </div>
             </div>
             
-{/*             <Button className="bg-bengali-red hover:bg-bengali-deep-red text-white mt-4">
-              Schedule a Design Consultation
-            </Button> */}
+              <button 
+                      type="submit" 
+                      className="bg-primary hover:bg-primary-dark text-white font-baloo py-3 px-8 rounded-full transition-all duration-300 transform hover:scale-105 hover:shadow-lg flex items-center"
+                    >
+                      Schedule a Consultation
+                      <Send size={16} className="ml-2" />
+                    </button>
           </div>
         </div>
         
