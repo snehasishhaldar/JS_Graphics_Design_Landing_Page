@@ -82,7 +82,7 @@ const BehindDesign = () => {
               </div>
               
               <div className="flex gap-4 items-start">
-                <div className="w-10 h-10  ounded-full bg-accent/30 flex items-center justify-center shrink-0">
+                <div className="w-10 h-10  rounded-full bg-accent/30 flex items-center justify-center shrink-0">
                   <span className="font-bold text-primary">4</span>
                 </div>
                 <div>
