@@ -52,8 +52,8 @@ const BehindDesign = () => {
             
             <div className="space-y-4">
               <div className="flex gap-4 items-start">
-                <div className="w-10 h-10 rounded-full bg-primary-light/10 flex items-center justify-center shrink-0">
-                  <span className="font-bold text-bengali-red">1</span>
+                <div className="w-10 h-10 rounded-full bg-off-white/10 flex items-center justify-center shrink-0">
+                  <span className="font-bold text-primary">1</span>
                 </div>
                 <div>
                   <h4 className="font-bold text-lg">Understanding Your Story</h4>
@@ -62,8 +62,8 @@ const BehindDesign = () => {
               </div>
               
               <div className="flex gap-4 items-start">
-                <div className="w-10 h-10 rounded-full bg-bengali-soft-orange flex items-center justify-center shrink-0">
-                  <span className="font-bold text-bengali-orange">2</span>
+                <div className="w-10 h-10 rounded-full bbg-off-white/10 flex items-center justify-center shrink-0">
+                  <span className="font-bold text-primary">2</span>
                 </div>
                 <div>
                   <h4 className="font-bold text-lg">Research & Inspiration</h4>
@@ -73,7 +73,7 @@ const BehindDesign = () => {
               
               <div className="flex gap-4 items-start">
                 <div className="w-10 h-10 rounded-full bg-bengali-gold/20 flex items-center justify-center shrink-0">
-                  <span className="font-bold text-bengali-gold">3</span>
+                  <span className="font-bold text-primary">3</span>
                 </div>
                 <div>
                   <h4 className="font-bold text-lg">Handcrafted Sketching</h4>
@@ -82,8 +82,8 @@ const BehindDesign = () => {
               </div>
               
               <div className="flex gap-4 items-start">
-                <div className="w-10 h-10 rounded-full bg-bengali-soft-red flex items-center justify-center shrink-0">
-                  <span className="font-bold text-bengali-red">4</span>
+                <div className="w-10 h-10 bg-off-white/10 flex items-center justify-center shrink-0">
+                  <span className="font-bold text-primary">4</span>
                 </div>
                 <div>
                   <h4 className="font-bold text-lg">Digital Refinement</h4>
