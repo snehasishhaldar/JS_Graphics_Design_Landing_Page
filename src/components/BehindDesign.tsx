@@ -106,7 +106,7 @@ const BehindDesign = () => {
                <img width="80" height="80" viewBox="0 0 100 100" src="/pngwing.com.png"></img>
               </div>
               <h4 className="font-bold">Kantha</h4>
-              <p className="text-sm text-bengali-gray">Embroidery patterns</p>
+              <p className="text-sm text-gray-600">Embroidery patterns</p>
             </div>
             
             <div className="flex flex-col items-center text-center">
@@ -114,7 +114,7 @@ const BehindDesign = () => {
                   <img width="80" height="80" viewBox="0 0 100 100" src="/pngwing.com.png"></img>
               </div>
               <h4 className="font-bold">Shankha</h4>
-              <p className="text-sm text-bengali-gray">Conch shell motifs</p>
+              <p className="text-sm text-gray-600">Conch shell motifs</p>
             </div>
             
             <div className="flex flex-col items-center text-center">
@@ -125,7 +125,7 @@ const BehindDesign = () => {
                 </svg>
               </div>
               <h4 className="font-bold">Terracotta</h4>
-              <p className="text-sm text-bengali-gray">Temple art patterns</p>
+              <p className="text-sm text-gray-600">Temple art patterns</p>
             </div>
             
             <div className="flex flex-col items-center text-center">
@@ -133,7 +133,7 @@ const BehindDesign = () => {
               <img width="80" height="80" viewBox="0 0 100 100" src="/lotus.png"></img>
               </div>
               <h4 className="font-bold">Lotus</h4>
-              <p className="text-sm text-bengali-gray">Sacred floral patterns</p>
+              <p className="text-sm text-gra600">Sacred floral patterns</p>
             </div>
           </div>
         </div>
