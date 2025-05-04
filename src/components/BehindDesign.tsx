@@ -68,18 +68,13 @@ const BehindDesign = () => {
         </div>
 
         {/* Traditional Art Elements Showcase */}
-        <div className="mt-16">
+        <div className="mt-16 items-center">
           <h3 className="font-rozha text-2xl font-bold text-center mb-8">Bengali Art Elements We Use</h3>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6">
             <div className="flex flex-col items-center text-center">
               <div className="w-24 h-24 rounded-full  items-center justify-center mb-4">
-                <svg width="60" height="60" viewBox="0 0 100 100">
-                  <path d="M20,50 C20,30 40,20 50,20 C60,20 80,30 80,50 C80,70 60,80 50,80 C40,80 20,70 20,50 Z"
-                    fill="none" stroke="#e43e25" strokeWidth="2" />
-                  <path d="M30,50 C30,35 40,30 50,30 C60,30 70,35 70,50 C70,65 60,70 50,70 C40,70 30,65 30,50 Z"
-                    fill="none" stroke="#e43e25" strokeWidth="1.5" />
-                </svg>
+              <img width="80" height="80" viewBox="0 0 100 100" style="remove-bg"src="/alpana.png" />
               </div>
               <h4 className="font-bold">Alpona</h4>
               <p className="text-sm text-gray-600">Traditional floor paintings</p>
