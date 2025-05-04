@@ -12,10 +12,10 @@ const testimonials = [
   },
   {
     id: 2,
-    name: "Priya Chatterjee",
+    name: "Lipi Saha",
     role: "Bride",
-    image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-    text: "Our wedding invitations were absolutely gorgeous! The team incorporated our family traditions with beautiful illustrations and motifs that impressed all our guests.",
+    image: "https://scontent.fixb1-2.fna.fbcdn.net/v/t39.30808-6/482031777_1732688857315390_8669828855342760191_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=L5YIvrJ9SigQ7kNvwF1kPwh&_nc_oc=Adngp7-PtRFaXEvhuqydDtYj_qclhghAWtQdHzNLhnQZnjU1ApXalq7B0nXRQ24makeoZhTuiCCs3svQokpb6gPE&_nc_zt=23&_nc_ht=scontent.fixb1-2.fna&_nc_gid=puGlRUHBS2H55eY9SI48rA&oh=00_AfG4Dz_eoX8Fb5RCYAg6wdTa7jEvoq2QChp4bveEBxhgxg&oe=681DD4B7",
+    text: "Our Weddiing Invitation card done by them.. They Work is just awesome...we really liked the work.. The behaviour of them is also Mindblowing ... Thank You TradyBong ❤️",
     rating: 5
   },
   {
