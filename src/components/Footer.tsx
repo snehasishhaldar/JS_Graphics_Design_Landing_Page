@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           {/* Company Info */}
           <div>
             <h3 className="text-2xl font-karma font-bold mb-6 flex items-center">
-              <span className="text-accent">Chitra</span>Kala
+              <span className="text-accent">Trady</span>Bong
             </h3>
             <p className="text-gray-300 mb-6">
               Blending Bengali traditions with modern design aesthetics to create unique visual experiences for brands and special occasions.
