@@ -4,10 +4,10 @@ import { ChevronLeft, ChevronRight, Star } from 'lucide-react';
 const testimonials = [
   {
     id: 1,
-    name: "Aditya Sengupta",
-    role: "Restaurant Owner",
-    image: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
-    text: "ChitraKala created a stunning brand identity for my Bengali restaurant. The design perfectly captures our cultural essence while feeling modern and fresh.",
+    name: "Subinoy Shaw",
+    role: "Business Owner",
+    image: "https://scontent.fixb1-2.fna.fbcdn.net/v/t39.30808-6/435489980_7709042919175961_2777700491240480625_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=XmjenZNY7lYQ7kNvwECpXnJ&_nc_oc=AdmMblQXyGPQaRS_rTOhT6K0_tO6RMs9FKsXUa0zcOdCMZ7nPHVKshEX5B5VFjAxfeaKWa15dut9mEkm6boX0NL-&_nc_zt=23&_nc_ht=scontent.fixb1-2.fna&_nc_gid=47E4JUm5R32pWDFcJsBijw&oh=00_AfGJU5cUeMcOjqnxGFuX_USjcuTxTrh-wy9ZEKsMgKllzA&oe=681DC09C",
+    text: "Thank You guys for your lovely work on my business cards and posters",
     rating: 5
   },
   {
