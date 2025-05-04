@@ -85,13 +85,7 @@ const BehindDesign = () => {
               <p className="text-sm text-gray-600">Traditional floor paintings</p>
             </div>
 
-            <div className="flex flex-col items-center text-center">
-              <div className="w-24 h-24 rounded-full  flex items-center justify-center mb-4">
-                <img width="80" height="80" viewBox="0 0 100 100" src="/pngwing.com.png" />
-              </div>
-              <h4 className="font-bold">Kantha</h4>
-              <p className="text-sm text-gray-600">Embroidery patterns</p>
-            </div>
+        
 
             <div className="flex flex-col items-center text-center">
               <div className="w-24 h-24 rounded-full  flex items-center justify-center mb-4">
