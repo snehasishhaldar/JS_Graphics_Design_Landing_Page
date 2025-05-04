@@ -130,10 +130,10 @@ const BehindDesign = () => {
             
             <div className="flex flex-col items-center text-center">
               <div className="w-24 h-24 rounded-full  flex items-center justify-center mb-4">
-              <img width="80" height="80" viewBox="0 0 100 100" src="/lotus.png"></img>
+              <img width="80" height="80" viewBox="0 0 100 100" src="/lotus_png.png"></img>
               </div>
               <h4 className="font-bold">Lotus</h4>
-              <p className="text-sm text-gra600">Sacred floral patterns</p>
+              <p className="text-sm text-gray-600">Sacred floral patterns</p>
             </div>
           </div>
         </div>
