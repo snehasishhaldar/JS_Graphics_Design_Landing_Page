@@ -110,7 +110,7 @@ const BehindDesign = () => {
               <p className="text-sm text-gray-600">Sacred floral patterns</p>
              </div> */}
 {/*            </div> */}
-        </div>
+        // </div>
       </div>
     </section>
   );
