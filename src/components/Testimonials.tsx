@@ -20,17 +20,17 @@ const testimonials = [
   },
   {
     id: 3,
-    name: "Rajdeep Mukherjee",
+    name: "Royal Event Managment and Wedding Planner",
     role: "Cultural Event Organizer",
-    image: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-    text: "The festival posters designed by ChitraKala helped increase our attendance by 40%. The vibrant colors and traditional patterns really caught everyone's attention.",
+    image: "/",
+    text: "Currently We are working with TradyBong also.. they done our lot of works...grate Service",
     rating: 4
   },
   {
     id: 4,
     name: "Ananya Dasgupta",
     role: "Boutique Owner",
-    image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+    image: "/royalevm.jpg",
     text: "Working with ChitraKala on our boutique branding was a dream. They captured the essence of our clothing line with a perfect blend of Bengali art and contemporary design.",
     rating: 5
   }
