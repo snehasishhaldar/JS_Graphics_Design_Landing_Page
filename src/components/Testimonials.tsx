@@ -22,7 +22,7 @@ const testimonials = [
     id: 3,
     name: "Royal Event Managment and Wedding Planner",
     role: "Cultural Event Organizer",
-    image: "/",
+    image: "/royalevm.jpg",
     text: "Currently We are working with TradyBong also.. they done our lot of works...grate Service",
     rating: 4
   },
@@ -30,7 +30,7 @@ const testimonials = [
     id: 4,
     name: "Ananya Dasgupta",
     role: "Boutique Owner",
-    image: "/royalevm.jpg",
+    image: "",
     text: "Working with ChitraKala on our boutique branding was a dream. They captured the essence of our clothing line with a perfect blend of Bengali art and contemporary design.",
     rating: 5
   }
