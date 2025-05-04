@@ -68,8 +68,8 @@ const BehindDesign = () => {
         </div>
 
         {/* Traditional Art Elements Showcase */}
-{/*         <div className="mt-16 items-center"> */}
-{/*           <h3 className="font-rozha text-2xl font-bold text-center mb-8">Bengali Art Elements We Use</h3>
+{/*         <div className="mt-16 items-center"> 
+          <h3 className="font-rozha text-2xl font-bold text-center mb-8">Bengali Art Elements We Use</h3>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6"> 
           <div>
@@ -80,18 +80,18 @@ const BehindDesign = () => {
               <h4 className="font-bold">Alpona</h4>
               <p className="text-sm text-gray-600">Traditional floor paintings</p>
             </div>
- */}
+ 
         
 
-{/*             <div className="flex flex-col items-center text-center">
+          <div className="flex flex-col items-center text-center">
               <div className="w-24 h-24 rounded-full  flex items-center justify-center mb-4">
                 <img width="80" height="80" viewBox="0 0 100 100" src="/pngwing.com.png" />
               </div>
               <h4 className="font-bold">Shankha</h4>
               <p className="text-sm text-gray-600">Conch shell motifs</p>
-            </div> */}
+            </div> 
 
-{/*             <div className="flex flex-col items-center text-center">
+             <div className="flex flex-col items-center text-center">
               <div className="w-24 h-24 rounded-full  flex items-center justify-center mb-4">
                 <svg width="60" height="60" viewBox="0 0 100 100">
                   <path d="M50,20 C60,30 70,20 80,30 C70,40 80,50 70,60 C60,70 50,60 40,70 C30,80 20,70 10,80 C20,70 10,60 20,50 C30,40 20,30 30,20 C40,10 50,20 50,20 Z"
@@ -100,17 +100,17 @@ const BehindDesign = () => {
               </div>
               <h4 className="font-bold">Terracotta</h4>
               <p className="text-sm text-gray-600">Temple art patterns</p>
-            </div> */}
+            </div> 
 
-{/*             <div className="flex flex-col items-center text-center">
+          <div className="flex flex-col items-center text-center">
               <div className="w-24 h-24 rounded-full  flex items-center justify-center mb-4">
                 <img width="80" height="80" viewBox="0 0 100 100" src="/lotus_png.png" />
               </div>
               <h4 className="font-bold">Lotus</h4>
               <p className="text-sm text-gray-600">Sacred floral patterns</p>
-             </div> */}
-{/*            </div> */}
-        // </div>
+             </div> 
+           </div>
+        </div> */}
       </div>
     </section>
   );
