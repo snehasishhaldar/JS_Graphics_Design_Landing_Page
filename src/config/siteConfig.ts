@@ -1,15 +1,15 @@
 // Site Configuration
 export const siteConfig = {
   // Brand Information
-  brandName: "JSGD",
+  brandName: "TradyBong Graphics & Design",
   tagline: "Designs Rooted in Culture, Crafted with Passion",
   
   // Contact Information
   contact: {
     phone: "+91 8617667982",
-    email: "hello@chitrakala.com",
-    whatsapp: "+91 8768842665",
-    address: "Kolkata, West Bengal, India"
+    email: "tadybong@gmail.com",
+    whatsapp: "+91 8617667982",
+    address: "Murshidabad, West Bengal, India"
   },
   
   // Social Media Links
