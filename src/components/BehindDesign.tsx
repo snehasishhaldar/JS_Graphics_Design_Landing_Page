@@ -49,7 +49,8 @@ const BehindDesign = () => {
                   <p className="text-gray-600">We dive into traditional Bengali art forms, from alpona and kantha to terracotta, finding elements that match your vision.</p>
                 </div>
               </div>
-              
+               </div>  // ✅ closes inner .aspect-square div
+54|          </div> 
               <div className="flex gap-4 items-start">
                 <div className="w-10 h-10 rounded-full bg-primary/10  flex items-center justify-center shrink-0">
                   <span className="font-bold text-primary">3</span>
