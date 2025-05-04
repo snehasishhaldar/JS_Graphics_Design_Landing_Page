@@ -110,10 +110,13 @@ const Footer: React.FC = () => {
         {/* Copyright */}
         <div className="text-center text-gray-400">
           <p className="mb-2">
-            © {new Date().getFullYear()} ChitraKala. All rights reserved.
+            © {new Date().getFullYear()} TradyBong. All rights reserved.
+          </p>
+              <p className="mb-2">
+           A Brand of JS Group
           </p>
           <p className="text-sm flex items-center justify-center">
-            Made with <Heart size={14} className="mx-1 text-accent" /> in Kolkata, India
+            Made with <Heart size={14} className="mx-1 text-accent" /> in Bangla, India
           </p>
         </div>
       </div>
