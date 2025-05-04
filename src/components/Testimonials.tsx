@@ -28,10 +28,10 @@ const testimonials = [
   },
   {
     id: 4,
-    name: "Ananya Dasgupta",
-    role: "Boutique Owner",
-    image: "",
-    text: "Working with ChitraKala on our boutique branding was a dream. They captured the essence of our clothing line with a perfect blend of Bengali art and contemporary design.",
+    name: "Snehasish Haldar",
+    role: "Founder of TradyBong",
+    image: "/snehasishHaldar.jpg",
+    text: "I am not a customer of TradyBong Guys... I am the Founder of TradyBong... You can get a chance to feature here.. just leave a feedback for us 😎..but try our service first 🤪 ... Love you guys...have a good day ✌️",
     rating: 5
   }
 ];
