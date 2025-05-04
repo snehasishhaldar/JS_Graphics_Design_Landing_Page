@@ -102,7 +102,7 @@ const BehindDesign = () => {
             </div>
             
             <div className="flex flex-col items-center text-center">
-              <div className="w-24 h-24 rounded-full bg-bengali-soft-orange/30 flex items-center justify-center mb-4">
+              <div className="w-24 h-24 rounded-full  flex items-center justify-center mb-4">
                <img width="80" height="80" viewBox="0 0 100 100" src="/pngwing.com.png"></img>
               </div>
               <h4 className="font-bold">Kantha</h4>
