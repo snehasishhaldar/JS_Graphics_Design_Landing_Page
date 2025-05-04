@@ -30,7 +30,7 @@ const testimonials = [
     id: 4,
     name: "Snehasish Haldar",
     role: "Founder of TradyBong",
-    image: "/snehasishHaldar.jpg",
+    image: "/SnehasishHaldar.jpg",
     text: "I am not a customer of TradyBong Guys... I am the Founder of TradyBong... You can get a chance to feature here.. just leave a feedback for us 😎..but try our service first 🤪 ... Love you guys...have a good day ✌️",
     rating: 5
   }
