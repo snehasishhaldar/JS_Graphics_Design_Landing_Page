@@ -54,6 +54,7 @@ const BehindDesign = () => {
                 <div className="w-10 h-10 rounded-full bg-primary/10  flex items-center justify-center shrink-0">
                   <span className="font-bold text-primary">3</span>
                 </div>
+                 </div> 
                 <div>
                   <h4 className="font-bold text-lg">Handcrafted Sketching</h4>
                   <p className="text-gray-600">Our artists create initial sketches by hand, blending traditional motifs with contemporary design elements.</p>
