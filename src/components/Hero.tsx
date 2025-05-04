@@ -29,7 +29,7 @@ const Hero: React.FC = () => {
               <span className="inline-block px-4 py-1 mb-4 bg-accent/10 text-accent rounded-full font-baloo">
                 Graphic Design & Branding
               </span>
-              <h1 className="font-rozha text-4xl md:text-5xl lg:text-6xl font-karma font-bold text-dark mb-4 leading-tight">
+              <h1 className="font-rozha text-4xl md:text-5xl lg:text-6xl  font-bold text-dark mb-4 leading-tight">
                 Designs Rooted in <span className="text-primary relative">
                   Culture
                   <span className="absolute bottom-1 left-0 h-1 w-full bg-accent/30"></span>
