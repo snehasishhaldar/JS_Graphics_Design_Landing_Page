@@ -20,7 +20,7 @@ const BehindDesign = () => {
             </div>
           </div>
 
-          <div className="space-y-6">
+          <div className="space-y-4">
             <h3 className="font-rozha text-2xl font-bold text-primary">Our Creative Process</h3>
 
             <div className="space-y-4">
