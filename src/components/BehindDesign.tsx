@@ -72,6 +72,7 @@ const BehindDesign = () => {
           <h3 className="font-rozha text-2xl font-bold text-center mb-8">Bengali Art Elements We Use</h3>
 {/* 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6"> */}
+          <div>
             <div className="flex flex-col items-center text-center">
               <div className="w-24 h-24 rounded-full  items-center justify-center mb-4">
               <img width="80" height="80" viewBox="0 0 100 100" style="remove-bg"src="/alpana.png" />
