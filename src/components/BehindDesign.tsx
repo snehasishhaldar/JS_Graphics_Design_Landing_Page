@@ -17,7 +17,7 @@ const BehindDesign = () => {
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mb-16">
           <div className="relative">
-            <div className="w-full aspect-square bg-white rounded-xl overflow-hidden shadow-lg alpona-border p-4">
+            <div className="w-full aspect-square bg-white rounded-xl overflow-hidden shadow-lg p-4">
               <div className="h-full w-full  rounded-lg flex items-center justify-center">
                 <div className="relative w-4/5 h-4/5">
                   {/* Design Process Illustration */}
@@ -31,7 +31,7 @@ const BehindDesign = () => {
             
             {/* Decorative Elements */}
             <div className="absolute -top-5 -right-5 w-16 h-16 border-4  ></div>
-            <div className="absolute -bottom-5 -left-5 w-12 h-12 border-4 rounded-full  style={{ animationDirection: "reverse", animationDuration: "15s" }}></div>
+            <div className="absolute -bottom-5 -left-5 w-12 h-12 border-4 rounded-full ></div>
           </div>
           
           <div className="space-y-6">
