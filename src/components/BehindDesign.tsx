@@ -66,9 +66,11 @@ const BehindDesign = () => {
             </div>
           </div>
         </div>
+        
 
-        {/* Traditional Art Elements Showcase */}
-{/*         <div className="mt-16 items-center"> 
+        {/* 
+        Traditional Art Elements Showcase 
+         <div className="mt-16 items-center"> 
           <h3 className="font-rozha text-2xl font-bold text-center mb-8">Bengali Art Elements We Use</h3>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6"> 
@@ -110,7 +112,8 @@ const BehindDesign = () => {
               <p className="text-sm text-gray-600">Sacred floral patterns</p>
              </div> 
            </div>
-        </div> */}
+        </div> 
+        */}
       </div>
     </section>
   );
