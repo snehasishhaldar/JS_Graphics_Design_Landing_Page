@@ -5,9 +5,9 @@ import { ExternalLink } from 'lucide-react';
 const portfolioItems = [
   {
     id: 1,
-    title: "Durga Puja Invitation Card",
+    title: "Invitation Card",
     category: "invitation",
-    image: "https://images.pexels.com/photos/6044226/pexels-photo-6044226.jpeg",
+    image: "/Invitation_Card.gif",
     description: "Traditional invitation design with modern elements",
   },
   {
