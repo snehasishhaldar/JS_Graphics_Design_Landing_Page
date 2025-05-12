@@ -55,7 +55,7 @@ const Hero: React.FC = () => {
           <div className="md:w-1/2 relative">
             <div className="relative rounded-tl-[100px] rounded-br-[100px] overflow-hidden aspect-[4/3] shadow-xl">
               <img 
-                src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlk-SxxixAkEj7QhS8KdYk-LfMsVQZo_0sNwLE_Rw6D23IbnMc" 
+                src="/Font_PAge.jpg" 
                 alt="Bengali-inspired design work" 
                 className="w-full h-full object-cover"
               />
