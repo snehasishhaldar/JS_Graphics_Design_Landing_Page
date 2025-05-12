@@ -21,7 +21,7 @@ const portfolioItems = [
     id: 3,
     title: "Bengali Restaurant Menu",
     category: "branding",
-    image: "/Bengali_MEnu.png",
+    image: "/Bengali_Menu.png",
     description: "Menu design with traditional Bengali motifs",
   },
   {
