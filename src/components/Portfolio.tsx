@@ -7,7 +7,7 @@ const portfolioItems = [
     id: 1,
     title: "Invitation Card",
     category: "invitation",
-    image: "/Invitation_Card.gif",
+    image: "/Invitation_Card.jpg",
     description: "Traditional invitation design with modern elements",
   },
   {
