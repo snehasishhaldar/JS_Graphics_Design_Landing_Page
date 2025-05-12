@@ -93,7 +93,7 @@ const Navbar: React.FC = () => {
                 }}
                 className="bg-primary text-off-white font-baloo py-2 px-6 rounded-full hover:bg-primary-dark transition-colors"
               >
-                Get Quote
+                Contact Now
               </button>
             </nav>
           </div>
