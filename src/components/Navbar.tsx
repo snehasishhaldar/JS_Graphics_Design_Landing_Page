@@ -37,7 +37,7 @@ const Navbar: React.FC = () => {
       >
         <div className="container mx-auto px-4 md:px-6 flex items-center justify-between">
           <Link to="/" className="text-2xl md:text-3xl font-bold font-karma text-primary">
-            TradyBong<span className="text-accent">Graphics & Design</span>
+            TradyBong<span className="text-accent"> Graphics & Design </span>
           </Link>
           
           {/* Desktop Navigation */}
