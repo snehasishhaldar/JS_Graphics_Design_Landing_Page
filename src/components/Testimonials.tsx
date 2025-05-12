@@ -14,7 +14,7 @@ const testimonials = [
     id: 2,
     name: "Lipi Saha",
     role: "Bride",
-    image: "https://scontent.fixb1-2.fna.fbcdn.net/v/t39.30808-6/482031777_1732688857315390_8669828855342760191_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=L5YIvrJ9SigQ7kNvwF1kPwh&_nc_oc=Adngp7-PtRFaXEvhuqydDtYj_qclhghAWtQdHzNLhnQZnjU1ApXalq7B0nXRQ24makeoZhTuiCCs3svQokpb6gPE&_nc_zt=23&_nc_ht=scontent.fixb1-2.fna&_nc_gid=puGlRUHBS2H55eY9SI48rA&oh=00_AfG4Dz_eoX8Fb5RCYAg6wdTa7jEvoq2QChp4bveEBxhgxg&oe=681DD4B7",
+    image: "https://scontent.fixb1-2.fna.fbcdn.net/v/t39.30808-6/482031777_1732688857315390_8669828855342760191_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Rq_N2jSP8oUQ7kNvwF_Xome&_nc_oc=AdmDxoW7kZJ0lFqXAR7tMRUVEPa0oQ3-QKaNe8kWnCfFIvUSQT7pi3Y_NXU6B47w7D9SGkyht0M9gddSnqm4ccsB&_nc_zt=23&_nc_ht=scontent.fixb1-2.fna&_nc_gid=RT3ur5zBOmMVD1tv0l3zDA&oh=00_AfKey3_H_AG6AmRUnBz90H5qGjGdyZO6mbc1C04uL0IuLA&oe=68282877",
     text: "Our Weddiing Invitation card done by them.. They Work is just awesome...we really liked the work.. The behaviour of them is also Mindblowing ... Thank You TradyBong ❤️",
     rating: 5
   },
