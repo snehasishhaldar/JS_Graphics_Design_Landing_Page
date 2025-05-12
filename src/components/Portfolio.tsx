@@ -28,7 +28,7 @@ const portfolioItems = [
     id: 4,
     title: "Wedding Invitation Suite",
     category: "invitation",
-    image: "https://images.pexels.com/photos/6044207/pexels-photo-6044207.jpeg",
+    image: "/Wedding_Card.jpg",
     description: "Elegant wedding invitation with Bengali cultural elements",
   },
   {
