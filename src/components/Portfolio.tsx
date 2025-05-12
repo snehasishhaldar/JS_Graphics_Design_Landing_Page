@@ -33,9 +33,9 @@ const portfolioItems = [
   },
   {
     id: 5,
-    title: "Festival Poster Design",
+    title: "Brand Poster Design",
     category: "poster",
-    image: "https://images.pexels.com/photos/6044257/pexels-photo-6044257.jpeg",
+    image: "/Brand_Poster.jpg",
     description: "Vibrant poster design for cultural festival",
   },
   {
