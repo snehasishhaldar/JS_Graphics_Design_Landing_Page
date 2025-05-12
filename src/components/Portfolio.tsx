@@ -12,9 +12,9 @@ const portfolioItems = [
   },
   {
     id: 2,
-    title: "Boutique Clothing Brand",
+    title: "Store Front & Branding Solution",
     category: "branding",
-    image: "https://images.pexels.com/photos/6044272/pexels-photo-6044272.jpeg",
+    image: "/Royal_Event_Managment.jpg",
     description: "Complete branding solution for a Bengali clothing line",
   },
   {
