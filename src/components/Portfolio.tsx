@@ -35,7 +35,7 @@ const portfolioItems = [
     id: 5,
     title: "Brand Poster Design",
     category: "poster",
-    image: "/Brand_Poster.jpg",
+    image: "/Brand_Poster.png",
     description: "Vibrant poster design for cultural festival",
   },
   {
