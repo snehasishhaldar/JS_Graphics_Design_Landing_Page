@@ -57,7 +57,7 @@ const Navbar: React.FC = () => {
               onClick={() => setQuotePopupOpen(true)}
               className="bg-primary text-off-white font-baloo py-2 px-6 rounded-full hover:bg-primary-dark transition-colors transform hover:scale-105"
             >
-              Get Quote
+              Contact Now
             </button>
           </nav>
           
